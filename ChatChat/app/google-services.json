@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320171851947",
+    "project_id": "chat-chat-aee34",
+    "storage_bucket": "chat-chat-aee34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320171851947:android:3785cf12d0ee7eabf937ee",
+        "android_client_info": {
+          "package_name": "com.valih.chatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320171851947-b55kua650140c430vqlq4ekfnd03s6n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUgBp_d55l69E-uU4-iWU3v8DokeirrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320171851947-b55kua650140c430vqlq4ekfnd03s6n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
